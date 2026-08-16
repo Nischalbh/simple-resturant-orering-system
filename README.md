@@ -14,11 +14,3 @@ A simple Python Object-Oriented Restaurant Ordering System.
 
 - Python
 - Object-Oriented Programming
-
-## Project Structure
-
-restaurant_project/
-├── main.py
-├── menu_item.py
-├── restaurant.py
-└── order.py
